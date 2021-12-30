@@ -1,5 +1,2 @@
 Even monkey do understand Git commands.
-add1
-add2
-add3
-add4
+add: To register the edited
